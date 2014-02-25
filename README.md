@@ -1,5 +1,3 @@
-![OpenSpritz](http://i.imgur.com/g8qPcGg.gif)
-
 # OpenSpritz
 
 OpenSpritz is an extremely crude implementation of [Spritz](http://www.spritzinc.com/) in JavaScript.
